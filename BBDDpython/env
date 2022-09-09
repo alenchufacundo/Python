@@ -1,0 +1,4 @@
+USER_MYSQL=root
+PORT_MYSQL=3306
+PASSWORD_MYSQL=kapo.10.alen
+DB_MYSQL=pythondb
